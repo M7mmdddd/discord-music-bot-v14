@@ -22,8 +22,8 @@ const client = new Client({ intents: [
 ] });
 client.distube = new DisTube(client, {
     emitNewSongOnly: false,
-    leaveOnEmpty: false,
-    leaveOnFinish: false,
+    leaveOnEmpty: true,
+    leaveOnFinish: true,
     leaveOnStop: false,
     savePreviousSongs: true,
     emitAddSongWhenCreatingQueue: false,
