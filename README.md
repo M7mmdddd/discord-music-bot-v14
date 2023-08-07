@@ -9,5 +9,5 @@
 ## 📷 Image
 ![image](https://cdn.discordapp.com/attachments/1135064779581554779/1138140540265832488/image.png)
 ## 🚨 Support Server
-✈ [Raven](https://discord.gg/187)
+✈ [187](https://discord.gg/187)
 
